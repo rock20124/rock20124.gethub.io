@@ -1,0 +1,13 @@
+body{background: blue;margin: 0; padding: 0; font:16px/24px Arial, Tahoma;width: 1000px; margin: 0 auto;}
+
+a{text-decoration: none;}
+div.mid {background: #efefef  url(menu.png); width: 240px;  height: 240px; float: left;}
+img.head {height: 150px; width:100%; }
+div.header {height: 150px;}
+div.menu{ height: 80px; line-height: 80px;}
+div.menu a{ color:#1683a3;}
+div.menu a:hover { color: red;}
+img.logo{height: 150px; width: auto;width: 100%;}
+.block{width: 440px;}
+.content{width: 760px; float: right;}
+.content:nth-of-type(even) {width: 760px; float: left;}
